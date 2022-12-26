@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="4" failures="0" time="11.66">
+  <testsuite name="Zadanie nr. 2" errors="0" failures="0" skipped="0" timestamp="2022-12-26T21:58:09" time="7.513" tests="4">
+    <testcase classname="Zadanie nr. 2" name="Dodano nieuporządkowaną listę" time="0.01">
+    </testcase>
+    <testcase classname="Zadanie nr. 2" name="Dodano 5 elementów listy" time="0.004">
+    </testcase>
+    <testcase classname="Zadanie nr. 2" name="Każdy LI ma kolejną literę alfabetu" time="0.004">
+    </testcase>
+    <testcase classname="Zadanie nr. 2" name="Każdy parzysty LI ma odpowiedni kolor" time="0.004">
+    </testcase>
+  </testsuite>
+</testsuites>
